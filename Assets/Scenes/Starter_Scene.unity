@@ -197,12 +197,12 @@ PrefabInstance:
     - target: {fileID: 1354344431476161195, guid: bc3223acc9ed93a459be36b445d9c9c2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -9.13
       objectReference: {fileID: 0}
     - target: {fileID: 1354344431476161195, guid: bc3223acc9ed93a459be36b445d9c9c2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -3.36
       objectReference: {fileID: 0}
     - target: {fileID: 1354344431476161195, guid: bc3223acc9ed93a459be36b445d9c9c2,
         type: 3}
@@ -379,7 +379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 853250490}
   - component: {fileID: 853250489}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: simple_setup_level
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -710,7 +710,7 @@ GameObject:
   - component: {fileID: 1861275305}
   - component: {fileID: 1861275304}
   - component: {fileID: 1861275303}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -944,7 +944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1921879831}
   - component: {fileID: 1921879832}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ceiling Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
